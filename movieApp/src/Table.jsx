@@ -67,7 +67,7 @@ class Table extends React.Component{
                         } }
                       >
                         {el.liked ? (
-                          <span class="material-icons-outlined">favourite</span>
+                          <span class="material-icons-outlined">favorite</span>
                         ) : (
                           <span class="material-icons-outlined">favorite_border</span>
                         )}
